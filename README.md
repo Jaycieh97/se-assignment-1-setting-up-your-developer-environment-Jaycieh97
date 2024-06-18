@@ -45,7 +45,7 @@ using the link https://git-scm.com/download/win, i download 64-bit git for windo
 git config --global user.email "your.email@example.com" this same email will be used to link git to my github. to ensure that the name and email have been set successfully, i will use git config --list, to verify the success of my settings.
 then i will create a github account in github.com using the same email as in git and choose a username of my choice.
 to verify if the two accounts have been linked successfully, i will create a repository in my github and copy code link, then open my gitbash, create a folder where i want my work stored, then clone the repository using the copied link code. i then cd my repo, open a readme.md file in vs code through code . as shown in the picture. ![alt text](image-6.png)
- once in vs code, i will do whatever needs to be done to my project. when done, i will open a new gitbash terminal. in gitbash i will git add, git commit a message of what i have done, then git push  origin main or master depending on my branch. i will go back to github and refresh my page to see changes that have been made to my readme file as in the picture
+ once in vs code, i will do whatever needs to be done to my project. when done, i will open a new gitbash terminal. in gitbash i will git add, git commit a message of what i have done, then git push  origin main or master depending on my branch. i will go back to github and refresh my page to see changes that have been made to my readme file as in the picture ![alt text](image-7.png)
 
 
 4. Install Necessary Programming Languages and Runtimes:
